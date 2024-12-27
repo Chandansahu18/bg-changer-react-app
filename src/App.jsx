@@ -27,9 +27,10 @@ function changeColor(selectedColor){
       <button className="bg-[#232b2b] text-white px-12" onClick={() => changeColor('black')}>Black</button>
       <button className="bg-red-600 text-white px-12" onClick={() => changeColor('red')}>Red</button>
       <button className="bg-green-600 text-white px-12" onClick={() => changeColor('green')}>Green</button>
-      <button className="bg-[#808000] text-white px-12" onClick={() => changeColor('olive')}>Olive</button>
+      <button className="bg-[#919130] text-white px-12" onClick={() => changeColor('olive')}>Olive</button>
       <button className="bg-orange-400 text-white px-12" onClick={() => changeColor('orange')}>Orange</button>
       <button className="bg-[#512372] text-white px-12" onClick={() => changeColor('indigo')}>Indigo</button>
+      <p>Made by Chandan</p>
     </div>     
     </>
   )
