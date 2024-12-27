@@ -30,7 +30,7 @@ function changeColor(selectedColor){
       <button className="bg-[#919130] text-white px-12" onClick={() => changeColor('olive')}>Olive</button>
       <button className="bg-orange-400 text-white px-12" onClick={() => changeColor('orange')}>Orange</button>
       <button className="bg-[#512372] text-white px-12" onClick={() => changeColor('indigo')}>Indigo</button>
-      <p>Made by Chandan</p>
+      <p>Made with 💝</p>
     </div>     
     </>
   )
